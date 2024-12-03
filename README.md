@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React,Javascript,Nodejs,express**
 
-- 📫 How to reach me **rg2256468@gmail.com**
+- 📫 How to reach me **rg256468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
