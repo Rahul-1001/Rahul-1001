@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React,Javascript,Nodejs,express**
 
 - 📫 How to reach me **rg2256468@gmail.com**
 
